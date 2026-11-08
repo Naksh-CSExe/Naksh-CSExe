@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Nakshatra! 👋
 
-<!--
-**Naksh-CSExe/Naksh-CSExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a first-year Computer Engineering student interested in software development, artificial intelligence, and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Currently Learning
+- C Programming
+- Python
+- Data Structures and Algorithms
+- Artificial Intelligence
+
+### 🛠️ Technologies
+- C
+- Python (Beginner)
+- Git & GitHub
+
+### 🚀 Projects
+
+**Shop Management System**
+- Inventory and billing application built using C.
+- Features product management, billing, stock tracking and sales reports.
+
+### 🎯 2026 Goals
+- Improve my programming fundamentals.
+- Build practical software projects.
+- Contribute to GitHub.
+- Explore AI and automation.
+
+### 📫 Connect
+- GitHub: You're already here!
+
